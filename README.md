@@ -1,2 +1,4 @@
-# There is an easier way 😉 
-Instead of browsing through these folders, it's recommended that you just go to [this page](https://www.teamxnl.com/installing-or-updating-arkos-r36s-r36h/) and download the zip file(s) you need directly. This way you don't have to download the entire repository either. On that page you can also find more information about the files you need and how to use them. Or if you first need to figure out which file you need, you can use my updated (from AeolusUX his version) tool [here](https://xnlfuturetechnologies.github.io/R36-Panel-Version-Checker/dtbIdentify.htm)
+# This is a direct copy (aka fork) of the original, no files are altered/changed
+The only thing I did here is made zip files of the original files and by doing so making it possible for beginners to download the (zip) files they easily without having to deal with repository download or other things they <strong>might</strong> not be able to find out.
+
+Please check the original repository by AeolusUX here: https://github.com/AeolusUX/R36S-DTB/
